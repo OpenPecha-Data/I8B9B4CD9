@@ -1,0 +1,31 @@
+id: I8B9B4CD9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:30:34.796787'
+last_modified: '2022-05-31T05:30:34.796797'
+parser: null
+source_metadata:
+  title: Ngawang Tenzin Norbu Series
+  language: en
+  description: 'Texts by Ngawang Tenzin Norbu (ngag dbang bstan ''dzin nor bu, 1867–1940/42),
+    who lived in Dza Rongpu on the slopes of Mount Everest:'
+  volume:
+    f5D2A:
+      title: A Brief Commentary on the Refuge & Bodhichitta Prayer known as Sangyé
+        Chö Tsok Ma
+      base_file: f5D2A.txt
+      order: 1
+      parent: Commentaries
+    f512F:
+      title: Prayer to the Successive Lives of the Great Trulshik 'Destroyer of Delusion'
+      base_file: f512F.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
